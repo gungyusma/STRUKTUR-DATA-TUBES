@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1586517219 source:c:\users\asus\documents\1303193085_igaisavitrimaharani_word_powerpoint\multi-linked-list-databuku\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"header.h"
+
+1586352197 source:c:\users\asus\documents\1303193085_igaisavitrimaharani_word_powerpoint\multi-linked-list-databuku\penulis.cpp
+	<iostream>
+	"header.h"
+
+1586326980 c:\users\asus\documents\1303193085_igaisavitrimaharani_word_powerpoint\multi-linked-list-databuku\header.h
+	<iostream>
+	"buku.h"
+
+1586329258 c:\users\asus\documents\1303193085_igaisavitrimaharani_word_powerpoint\multi-linked-list-databuku\buku.h
+	<iostream>
+	<string>
+
+1586329258 source:c:\users\asus\documents\1303193085_igaisavitrimaharani_word_powerpoint\multi-linked-list-databuku\buku1.cpp
+	<iostream>
+	"buku.h"
+
